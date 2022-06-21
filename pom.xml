@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.janwarlen.javaFeature</groupId>
+    <artifactId>Feature</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>JDK8</module>
+        <module>JDK11</module>
+        <module>JDK12</module>
+        <module>JDK14</module>
+        <module>JDK15</module>
+        <module>JDK16</module>
+        <module>JDK17</module>
+    </modules>
+
+</project>

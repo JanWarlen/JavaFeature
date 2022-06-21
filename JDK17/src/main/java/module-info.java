@@ -1,0 +1,2 @@
+module JDK17 {
+}
