@@ -16,6 +16,7 @@
         <module>JDK15</module>
         <module>JDK16</module>
         <module>JDK17</module>
+        <module>JDK18</module>
     </modules>
 
 </project>
